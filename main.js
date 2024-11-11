@@ -12,7 +12,7 @@
 		"artist": "Colin Ross",
 		"album": "Refractions",
 		"url": "music/refractions/1 - Judy O..mp3",
-		"cover_art_url": "music/refraction/refractions-cover.jpg"
+		"cover_art_url": "music/refractions/refractions-cover.jpg"
 	}
   ],
   waveforms: {
