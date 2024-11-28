@@ -5,7 +5,7 @@
     32: 'play_pause'
   },
   debug: true,
-  // visualization: 'michaelbromley_visualization',
+  visualization: 'michaelbromley_visualization',
   songs: [
     {
       "name": "Judy O.",
