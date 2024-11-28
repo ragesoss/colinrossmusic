@@ -15,41 +15,6 @@
       "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
     },
     {
-      "name": "In the Key of C Major",
-      "artist": "Colin Ross",
-      "album": "Soliloquy",
-      "url": "/colinrossmusic/music/soliloquy/10 - In the Key of C Major.mp3",
-      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
-    },
-    {
-      "name": "In the Key of F# minor",
-      "artist": "Colin Ross",
-      "album": "Soliloquy",
-      "url": "/colinrossmusic/music/soliloquy/11 - In the Key of F# minor.mp3",
-      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
-    },
-    {
-      "name": "In the Key of Bb minor",
-      "artist": "Colin Ross",
-      "album": "Soliloquy",
-      "url": "/colinrossmusic/music/soliloquy/12 - In the Key of Bb minor.mp3",
-      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
-    },
-    {
-      "name": "In the Key of A Major",
-      "artist": "Colin Ross",
-      "album": "Soliloquy",
-      "url": "/colinrossmusic/music/soliloquy/13 - In the Key of A Major.mp3",
-      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
-    },
-    {
-      "name": "unlisted",
-      "artist": "Colin Ross",
-      "album": "Soliloquy",
-      "url": "/colinrossmusic/music/soliloquy/14 - unlisted.mp3",
-      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
-    },
-    {
       "name": "In the Key of A minor",
       "artist": "Colin Ross",
       "album": "Soliloquy",
@@ -103,6 +68,41 @@
       "artist": "Colin Ross",
       "album": "Soliloquy",
       "url": "/colinrossmusic/music/soliloquy/9 - In the Key of Bb Major.mp3",
+      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
+    },
+    {
+      "name": "In the Key of C Major",
+      "artist": "Colin Ross",
+      "album": "Soliloquy",
+      "url": "/colinrossmusic/music/soliloquy/10 - In the Key of C Major.mp3",
+      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
+    },
+    {
+      "name": "In the Key of F# minor",
+      "artist": "Colin Ross",
+      "album": "Soliloquy",
+      "url": "/colinrossmusic/music/soliloquy/11 - In the Key of F# minor.mp3",
+      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
+    },
+    {
+      "name": "In the Key of Bb minor",
+      "artist": "Colin Ross",
+      "album": "Soliloquy",
+      "url": "/colinrossmusic/music/soliloquy/12 - In the Key of Bb minor.mp3",
+      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
+    },
+    {
+      "name": "In the Key of A Major",
+      "artist": "Colin Ross",
+      "album": "Soliloquy",
+      "url": "/colinrossmusic/music/soliloquy/13 - In the Key of A Major.mp3",
+      "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
+    },
+    {
+      "name": "unlisted",
+      "artist": "Colin Ross",
+      "album": "Soliloquy",
+      "url": "/colinrossmusic/music/soliloquy/14 - unlisted.mp3",
       "cover_art_url": "/colinrossmusic/music/soliloquy/cover.jpg"
     }
   ],

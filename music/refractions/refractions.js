@@ -15,27 +15,6 @@
       "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
     },
     {
-      "name": "Knockin' on Your Door",
-      "artist": "Colin Ross",
-      "album": "Refractions",
-      "url": "/colinrossmusic/music/refractions/10 - Knockin' on Your Door.mp3",
-      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
-    },
-    {
-      "name": "San Juan",
-      "artist": "Colin Ross",
-      "album": "Refractions",
-      "url": "/colinrossmusic/music/refractions/11 - San Juan.mp3",
-      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
-    },
-    {
-      "name": "Refractions",
-      "artist": "Colin Ross",
-      "album": "Refractions",
-      "url": "/colinrossmusic/music/refractions/12 - Refractions.mp3",
-      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
-    },
-    {
       "name": "Souljourn",
       "artist": "Colin Ross",
       "album": "Refractions",
@@ -89,6 +68,27 @@
       "artist": "Colin Ross",
       "album": "Refractions",
       "url": "/colinrossmusic/music/refractions/9 - Unborn Child.mp3",
+      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
+    },
+    {
+      "name": "Knockin' on Your Door",
+      "artist": "Colin Ross",
+      "album": "Refractions",
+      "url": "/colinrossmusic/music/refractions/10 - Knockin' on Your Door.mp3",
+      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
+    },
+    {
+      "name": "San Juan",
+      "artist": "Colin Ross",
+      "album": "Refractions",
+      "url": "/colinrossmusic/music/refractions/11 - San Juan.mp3",
+      "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
+    },
+    {
+      "name": "Refractions",
+      "artist": "Colin Ross",
+      "album": "Refractions",
+      "url": "/colinrossmusic/music/refractions/12 - Refractions.mp3",
       "cover_art_url": "/colinrossmusic/music/refractions/cover.jpg"
     }
   ],
